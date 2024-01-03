@@ -1,5 +1,3 @@
-# database-management-system
-
 # Single-User Relational Database Management System (RDBMS)
 
 **Authors:** Jack Mancini & Tagan Farrell
